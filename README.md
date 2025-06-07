@@ -3,6 +3,9 @@
 1. Typescript.
 2. React Native.
 3. Expo.
+4. Async Storage.
+5. Use State.
+6. Use Effect.
 ## How does it work?
 + User writes and add stuff to the list.
 + User can mark the item if it's already been picked.
@@ -13,6 +16,9 @@
 1. Typescript.
 2. React Native.
 3. Expo.
+4. Async Storage.
+5. Use State.
+6. Use Effect.
 ## Como funciona?
 + Usuário adiciona items à lista.
 + Usuário marca a opção como escolhida.
