@@ -10,7 +10,7 @@
 + User writes and add stuff to the list.
 + User can mark the item if it's already been picked.
 + User can de-select a chosen item if it wasn't picked yet.
-+ At th every end it looks like a to do list.
++ At the very end, it looks like a to do list.
 # Lista de compras em React Native - Português
 ## Tecnologias:
 1. Typescript.
